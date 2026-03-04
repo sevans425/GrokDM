@@ -9,7 +9,6 @@
 **In-game day**: 24
 **Eden's level**: 3 (Divination Wizard)
 **Last session**: 17 — The lich confirmed. The disc built. The council convenes today.
-**Spreadsheet ID**: 139NjvmH7wJa2FIlEbCrvxEqMitHSsWmYPMGXXvUmiy8
 
 **Top 3 active threads**:
 1. Divine Council convenes Day 24 — King present, three reformist exarchs committed, Serath not yet arrived, Vahlen searching
